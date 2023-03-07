@@ -1,7 +1,7 @@
 [EN] How to INSTALL ?
 
 Paste this in your SERVER.cfg :
- ensure hud_perfect / start hud_perfect
+ ensure HUD Blaks v2 / start HUD Blaks v2
  
  And modif this HUD/UI with the folder HTML
     
@@ -10,7 +10,7 @@ Paste this in your SERVER.cfg :
 [FR] Comment l'installer ?
 
 Colle ce ci dans SERVER.cfg
- ensure hud_perfect / start hud_perfect
+ ensure HUD Blaks v2 / start HUD Blaks v2
  
  Et modifie le HUD/UI dans le dossier HTML
  
